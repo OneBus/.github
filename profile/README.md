@@ -18,4 +18,4 @@ senha padrão do banco de dados: onebus@2025
 
 [docker-compose (2).yml](https://github.com/user-attachments/files/23488046/docker-compose.2.yml)
 
-É possível alterar as informações do docker-comopose para atender as suas necessidades caso necessário
+É possível alterar as informações do docker-compose para atender as suas necessidades caso necessário
