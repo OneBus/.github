@@ -13,8 +13,10 @@ porta padrão do banco de dados: 5441
 usuário do banco de dados: postgres
 
 nome do banco de dados: onebus
-
 senha padrão do banco de dados: onebus@2025
+
+email padrão de login: onebus@admin
+senha padrão de login: onebus@2025
 
 [docker-compose (2).yml](https://github.com/user-attachments/files/23488046/docker-compose.2.yml)
 
